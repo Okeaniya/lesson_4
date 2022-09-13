@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff2")format('woff2'), url("../fonts/Larsseit-Bold.woff")format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Larsseit';
+	src: url("../fonts/Larsseit-Medium.woff2")format('woff2'), url("../fonts/Larsseit-Medium.woff") format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Larsseit';
+	src: url("../fonts/Larsseit-Regular.woff2") format('woff2'), url("../fonts/Larsseit-Regular.woff2") format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url("../fonts/Lato-Bold.woff2") format('woff2'), url("../fonts/Lato-Bold.woff") format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url("../fonts/Lato-Black.woff2") format('woff2'), url("../fonts/Lato-Black.woff") format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url("../fonts/Lato-Regular.woff2") format('woff2'), url("../fonts/Lato-Regular.woff") format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+.header-text{
+	font-family: Roboto;
+	font-weight: 900;
+	color: darkviolet;
+}
+.text{
+	font-family: Larsseit;
+	font-weight: 500;
+	color: rgb(26, 54, 105);
+}
+ul a{
+	font-family: Lato;
+	font-weight: 900;
+	color:#004eff;
+}
+.text-coffe{
+	font-family: Lato;
+	font-weight: 700;
+	color: chocolate;
+
+}
+#coffe p{
+	font-family: Larsseit;
+	font-weight: bold;
+	color: #24150b;
+}
+h2{
+	font-family: Roboto;
+	font-weight: 900;
+	color: rgb(8, 23, 51);
+}
+span{
+	font-family: Larsseit;
+	font-weight: 700;
+	color: darkmagenta;
+}
+em{
+	font-family: Lato;
+	font-weight: 900;
+	color: blue;
+}
+ol li{
+	font-family: Larsseit;
+	color: crimson;
+}
+li{
+	font-family: Larsseit;
+	color: darkslateblue;
+}
+#tea p{
+	font-family: Larsseit;
+	font-weight: bold;
+	color: darkolivegreen;
+}
+.text-tea h2{
+	font-family: Roboto;
+	font-weight: 900;
+	color: darkgreen;
+}
+
+.text-tea{
+	font-family: Larsseit;
+	font-weight: bold;
+	color: rgb(50, 74, 6);
+}
+.text-color{
+	font-family: Roboto;
+	font-weight: 900;
+	color: tomato;
+}
+footer{
+	font-family: Roboto;
+	font-weight: 900;
+	
+}
